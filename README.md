@@ -19,6 +19,7 @@ node --version
 
 ## Usage
 Terminal Example: (if use node directly, add "node" at front)
+```
 # Adding a new task
 task-cli add "Buy groceries"
 # Output: Task added successfully (ID: 1)
@@ -38,6 +39,7 @@ task-cli list
 task-cli list done
 task-cli list todo
 task-cli list in-progress
+```
 
 ## Contribute
 yilinDai (GitHub name: itoeHi, email:daiyilin1425251132@qq.com)
