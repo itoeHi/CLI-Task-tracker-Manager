@@ -3,8 +3,7 @@
 ## Intro
 
 This is backend pratice project. Detail Please visit Roadmap.
-https://github.com/itoeHi/CLI-Task-tracker-Manager.git
-
+https://roadmap.sh/projects/task-tracker
 ## Menu structure
 
 - [Intro](#Intro)
