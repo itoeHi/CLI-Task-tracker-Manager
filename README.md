@@ -64,7 +64,7 @@ task-cli list in-progress
 ```
 
 ## Contribute
-yilinDai (GitHub name: itoeHi, email:daiyilin1425251132@qq.com)
+Author: itoeHi
 
 ## Lisence
 No lisence
